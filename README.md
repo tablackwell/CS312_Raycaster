@@ -1,7 +1,7 @@
 # CS312_Raycaster
 The raycaster version of the 312 raytracer, written in C++. Includes lighting! 
 
-<img src="https://raw.githubusercontent.com/tablackwell/CSCI312_Raytracer/master/Example%20Images/example.png" width="200">
+<img src="https://raw.githubusercontent.com/tablackwell/CSCI312_Raytracer/master/Example%20Images/example.png" width="400">
 
 The program can be compiled with the command:g++ rt.cppVector.cpp Sphere.cpp Light.cpp –lm –o rt
 
